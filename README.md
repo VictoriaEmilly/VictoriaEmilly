@@ -1,6 +1,6 @@
 ### Seja Bem-Vindo(a) ao meu perfil! 👋
-✨Meu nome é Victoria, tenho 19 anos
 
+🎓 Graduanda em Análise e Desenvolvimento de Sistemas na Una 
 
 <div> 
   <a href="https://www.instagram.com/vick_emilly" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
