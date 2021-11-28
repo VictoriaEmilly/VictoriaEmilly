@@ -1,4 +1,4 @@
-### Seja Bem-Vindo(a) ao meu perfil! 👋
+### Olá, eu sou a Victoria! Seja Bem-Vindo(a) ao meu perfil! 👋
 
 💻 Atualmente estudando Java e Banco de Dados no MySQL
 <div>
