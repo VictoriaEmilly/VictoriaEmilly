@@ -19,6 +19,6 @@
   <a href="https://www.linkedin.com/in/victoria-emilly-ferreira-santos-2b729519a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/vick_emilly/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.victoriaefs@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <img align="right" height= "130em "alt="Gif-Vick" src="https://media.discordapp.net/attachments/901442299526017089/914317115006267422/picasion.com_16ec154a6e8a1beb47668a42d1cb0c08.gif">
+  
 </div>
   
