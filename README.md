@@ -1,6 +1,6 @@
 ### Olá, eu sou a Victoria! Seja Bem-Vindo(a) ao meu perfil! 👋
 
-💻 Atualmente estudando Python, Java e Banco de Dados no MySQL
+💻 Atualmente estudando HTML, CSS e JavaScript.
 <div>
   <a href="https://github.com/VictoriaEmilly">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictoriaEmilly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
